@@ -15,7 +15,7 @@ print("""\[\033[0;32m
                                                 
 
 
-\033[0;34mBy : @OZXZ - Muntahi 
+\033[0;34mBy : @O7ZXZ - Muntahi 
 
 Telegram : https:t.me?OOO0S1
 
